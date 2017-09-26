@@ -14,8 +14,10 @@
   color: white;
 }
 
-.App-intro {
-  font-size: large;
+.App-tweets {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 @keyframes App-logo-spin {
